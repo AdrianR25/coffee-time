@@ -1,0 +1,5 @@
+<div class="grid">
+    @for (product of productList; track $index) {
+        <app-product-item [product]="product" (click)="addProduct(product)"></app-product-item>
+    }
+</div>

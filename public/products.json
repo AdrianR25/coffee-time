@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Café",
+        "imageUrl": ""
+    },
+    {
+        "name": "Té",
+        "imageUrl": ""
+    },
+    {
+        "name": "Cerveza",
+        "imageUrl": ""
+    },
+    {
+        "name": "Refresco",
+        "imageUrl": ""
+    },
+    {
+        "name": "Vino",
+        "imageUrl": ""
+    },
+    {
+        "name": "Agua",
+        "imageUrl": ""
+    }
+]
