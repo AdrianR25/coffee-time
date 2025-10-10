@@ -1,26 +1,43 @@
 [
     {
         "name": "Café",
-        "imageUrl": ""
+        "imageUrl": "/product-images/product-coffee.png"
     },
     {
-        "name": "Té",
-        "imageUrl": ""
+        "name": "Café con leche",
+        "imageUrl": "/product-images/product-latte.png"
     },
     {
-        "name": "Cerveza",
-        "imageUrl": ""
+        "name": "Café con leche sin lactosa",
+        "imageUrl": "/product-images/product-lactose-free-latte.png"
     },
     {
-        "name": "Refresco",
-        "imageUrl": ""
+        "name": "Colacao",
+        "imageUrl": "/product-images/product-chocolate-milk.png"
     },
     {
-        "name": "Vino",
-        "imageUrl": ""
+        "name": "Vaso con hielos",
+        "imageUrl": "/product-images/product-ice.png"
     },
     {
-        "name": "Agua",
-        "imageUrl": ""
+        "name": "Pincho de tortilla",
+        "imageUrl": "/product-images/product-tortilla.png"
+    },
+    {
+        "name": "Tostadas con jamón y tomate",
+        "imageUrl": "/product-images/product-tomato-ham-toast.png"
+    },
+    {
+        "name": "Sandwich mixto",
+        "imageUrl": "/product-images/product-mixed-sandwich.png"
+    },
+    {
+        "name": "Bocadillo de lomo",
+        "imageUrl": "/product-images/product-loin-bocadillo.png"
+    },
+    {
+        "name": "Bocadillo de bacon",
+        "imageUrl": "/product-images/product-bacon-bocadillo.png"
     }
+
 ]
