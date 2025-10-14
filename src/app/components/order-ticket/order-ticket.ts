@@ -10,4 +10,5 @@ import { OrderService } from '../../services/order-service';
 export class OrderTicket {
   private orderService = inject(OrderService);
   order = this.orderService.getOrder();
+  date = new Date().toLocaleDateString();
 }
