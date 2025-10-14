@@ -1,3 +1,6 @@
-@for (line of order; track $index) {
-    <p>{{line.product.name}} x {{line.quantity}}</p>
-}
+<h2>Pedido</h2>
+<section>
+  @for (line of order; track $index) {
+    <div class="order-line"><span>{{ line.product.name }}</span>  <span>{{ line.quantity }}</span></div>
+  }
+</section>
