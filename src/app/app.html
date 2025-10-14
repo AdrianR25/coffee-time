@@ -2,7 +2,7 @@
   <app-product-selection class="section"></app-product-selection>
   <div class="column">
     <app-order class="section"></app-order>
-    <button (click)="printOrder()">Imprimir</button>
+    <button (click)="printOrder()" [disabled]="isOrderEmpty()">Imprimir</button>
   </div>
 </main>
 <app-order-ticket></app-order-ticket>

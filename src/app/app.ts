@@ -16,4 +16,7 @@ export class App {
   printOrder() {
     this.orderService.printOrder();
   }
+  isOrderEmpty() {
+    return this.orderService.getOrder().length === 0;
+  }
 }
